@@ -8,8 +8,8 @@ API tries to follow [curio](https://curio.readthedocs.io), although many feature
 
 Install Jupyter notebooks and the [Adafruit CircuitPython kernel](https://github.com/adafruit/circuitpython_kernel) to use.
 
-* [Jupyter notebook](doc/circuitpython_kernel.ipynb) for CircuitPython, setup and features [pdf](doc/circuitpython_kernel.pdf)
-* [Eventio Tour](doc/eventio_tour.ipynb). Demonstrates running multiple coroutines simultaneously; processor automatically powers down when there is no work. [pdf](doc/eventio_tour.pdf)
+* [Jupyter notebook](doc/circuitpython_kernel.ipynb) for CircuitPython, setup and features.
+* [Eventio Tour](doc/eventio_tour.ipynb). Demonstrates running multiple coroutines simultaneously; processor automatically powers down when there is no work.
 * [Eventio Tutorial](doc/eventio_tutorial.ipynb). Eventually.
 * [Timer](doc/timer.ipynb). Timer and Chronometer classes.
 * [A tale of eventloops](doc/tale_of_event_loops.ipynb)
