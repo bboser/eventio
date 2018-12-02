@@ -1,0 +1,3 @@
+
+- Is there a way to get rid of the global kernel?
+    * used in sync.PinEvent.callback
